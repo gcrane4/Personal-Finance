@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Personal Finance</string>
+    <string name="trans_name">Tranaction Name:</string>
+    <string name="deposit_name">Deposit:</string>
+    <string name="withdrawal_name">Withdrawal:</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
